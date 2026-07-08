@@ -92,7 +92,7 @@ nav.links a:hover { color: #000; border-bottom: 2px solid var(--yellow); padding
    HERO
    ========================================================== */
 .hero {
-  background-image: url("img/hero.svg");
+  background-image: url("img/hero.jpg");
   background-size: cover;
   background-position: center right;
   position: relative;
